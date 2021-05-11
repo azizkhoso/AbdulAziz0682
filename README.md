@@ -1,5 +1,7 @@
-### Hi there 👋
+![githubprofile](https://user-images.githubusercontent.com/60597318/117837637-0ba17780-b293-11eb-9ee5-7c849ab535d4.png)
 
+### Hi there 👋
+I am Abdul Aziz Khoso and I am a fullstack software developer. I had started from html and have touched the essence of containers and their orchestration. I believe in smooth user experience and efficient code. Learning different technologies is my passion, yet I am experienced in utilizing the power of JavaScript.
 <!--
 **AbdulAziz0682/AbdulAziz0682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on responsive web designing in ReactJS using Bootstrap and W3.CSS. <br>
+🌱 I’m currently learning AWS, Oracle SQL and Kubernetes. <br>
+💬 Ask me about JavaScript and it's core features. <br>
+📫 How to reach me: abdulrasheed2132@gmail.com <br>
+😄 Pronouns: he/him
+
+<img src="https://img.icons8.com/color/2x/html-5.png" height="30"><img src="https://img.icons8.com/color/48/000000/css3.png" height="30"/>&nbsp;<img src="https://img.icons8.com/color/30/000000/javascript.png"/>&nbsp;<img src="https://img.icons8.com/ios-filled/30/000000/jquery.png"/>&nbsp;<img src="https://img.icons8.com/color/30/000000/bootstrap.png"/>&nbsp;<img src="https://img.icons8.com/color/30/000000/nodejs.png"/>&nbsp;<img src="https://img.icons8.com/ultraviolet/30/000000/react.png"/>&nbsp;<img src="https://img.icons8.com/color/30/000000/mongodb.png"/>&nbsp;<img src="https://img.icons8.com/ios-filled/30/000000/mysql-logo.png"/>&nbsp;<img src="https://img.icons8.com/color/30/000000/amazon-web-services.png"/>&nbsp;<img src="https://img.icons8.com/color/30/000000/google-cloud-platform.png"/>&nbsp;<img src="https://img.icons8.com/dusk/30/000000/docker.png"/>&nbsp;<img src="https://img.icons8.com/color/30/000000/kubernetes.png"/>&nbsp;<img src="https://img.icons8.com/officel/30/000000/java-eclipse.png"/>&nbsp;<img src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png"/>
